@@ -29,7 +29,7 @@
       "components/*": [
         "./app/(frontend)/(components)/*"
       ],
-      "@ayload-config": [
+      "@payload-config": [
         "./payload.config.ts"
       ]
     }
